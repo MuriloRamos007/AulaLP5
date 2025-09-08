@@ -244,6 +244,7 @@ public class JDlgUsuarios extends javax.swing.JDialog {
         // TODO add your handling code here:
         Util.habilitar(true, jTxtCodigo, jChbAtivo, jTxtNome, jCboNivel, jFmtCpf, jFmtDataDeNascimento, jTxtApelido, jPwfSenha, jBtnConfirmar, jBtnCancelar);
         Util.habilitar(false, jBtnIncluir, jBtnAlterar, jBtnExcluir, jBtnPesquisar);
+        Util.limpar(jTxtCodigo, jTxtNome, jCboNivel, jFmtCpf, jFmtDataDeNascimento, jTxtApelido, jPwfSenha, jChbAtivo);
 
     }//GEN-LAST:event_jBtnIncluirActionPerformed
 
@@ -256,7 +257,7 @@ public class JDlgUsuarios extends javax.swing.JDialog {
 
     private void jBtnExcluirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnExcluirActionPerformed
         // TODO add your handling code here:
-
+        Util.perguntar("Deseja excluir o registro?");
     }//GEN-LAST:event_jBtnExcluirActionPerformed
 
 
@@ -270,7 +271,7 @@ public class JDlgUsuarios extends javax.swing.JDialog {
 
     private void jBtnPesquisarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBtnPesquisarActionPerformed
         // TODO add your handling code here: 
-
+        Util.mensagem("Não implementado");
 
     }//GEN-LAST:event_jBtnPesquisarActionPerformed
 
