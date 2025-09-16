@@ -3,7 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/view/JDlgUsuarios.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/bean/Clientes.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/bean/Produtos.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/bean/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/bean/Usuarios.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/dao/abstractDAO.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/bean/Vendedor.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/dao/UsuariosDAO.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/dao/ProdutosDAO.java</file>
+            <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/dao/HibernateUtil.java</file>
             <file>file:/C:/Users/u09460911102/Documents/NetBeansProjects/AulaLP5B/src/tools/Util.java</file>
         </group>
     </open-files>
